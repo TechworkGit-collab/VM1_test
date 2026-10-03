@@ -7,6 +7,10 @@ rg-names= {
         rg-name     = "rg-mirza"
         rg-location = "eastus"
     }
+    rg3 = {
+        rg-name     = "rg-galib"
+        rg-location = "eastus"
+    }
 }
 
 
