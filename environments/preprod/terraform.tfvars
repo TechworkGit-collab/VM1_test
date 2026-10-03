@@ -3,6 +3,10 @@ rg-names= {
         rg-name     = "rg-rahat"
         rg-location = "eastus"
     }
+    rg2 = {
+        rg-name     = "rg-mirza"
+        rg-location = "eastus"
+    }
 }
 
 
